@@ -33,7 +33,7 @@ class Code
         Scanner sc=new Scanner(System.in);
         int n,m,i,c=0,p;
         n=sc.nextInt();
-        //m=sc.nextInt();
+       // m=sc.nextInt();
         for(i=n+1;i<n+10000;i++)
         {
             if(pal(i))
