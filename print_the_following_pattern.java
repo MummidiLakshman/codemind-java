@@ -11,7 +11,7 @@ class code
             {
                 System.out.print(j);
             }
-            for(int k=1;k<n-2;k++)
+            for(int k=n-3;k>=1;k--)
             {
                 System.out.print(k);
             }
